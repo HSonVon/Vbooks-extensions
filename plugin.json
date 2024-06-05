@@ -6,9 +6,9 @@
   "data": [
     {
       "name": "Đọc Truyện Full",
-      "author": "Nahona",
+      "author": "Cern",
       "path": "https://raw.githubusercontent.com/HSonVon/Vbooks-extensions/main/doctruyenchufull/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://doctruyenchufull.online",
       "icon": "https://doctruyenchufull.online/favicon.ico",
       "description": "Đọc truyện trên trang Đọc Truyện Full",
