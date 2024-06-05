@@ -9,8 +9,8 @@
       "author": "Cern",
       "path": "https://raw.githubusercontent.com/HSonVon/Vbooks-extensions/main/doctruyenchufull/plugin.zip",
       "version": 3,
-      "source": "https://doctruyenchufull.online",
-      "icon": "https://doctruyenchufull.online/favicon.ico",
+      "source": "https://doctruyenchufull.xyz",
+      "icon": "https://doctruyenchufull.xyz/favicon.ico",
       "description": "Đọc truyện trên trang Đọc Truyện Full",
       "type": "novel",
       "locale": "vi_VN"
