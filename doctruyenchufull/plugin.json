@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Đọc Truyện Full",
     "author": "Cern",
-    "version": 1,
+    "version": 2,
     "source": "https://doctruyenchufull.online/",
     "regexp": "(www.)?doctruyenchufull.online/(.*?)",
     "description": "Bản chính thức của Đọc Truyện Full",
